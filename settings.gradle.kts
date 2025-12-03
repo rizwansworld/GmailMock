@@ -22,7 +22,6 @@ dependencyResolutionManagement {
 rootProject.name = "GmailMock"
 include(":app")
 include(":core")
-include(":core-ui")
 include(":data")
 include(":domain")
 include(":presentation")
